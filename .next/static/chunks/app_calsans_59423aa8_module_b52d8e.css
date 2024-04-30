@@ -1,0 +1,25 @@
+/* [project]/app/calsans_59423aa8.module.css [app-client] (css) */
+@font-face {
+  font-family: __calSans_59423a;
+  src: url("../media/CalSans_SemiBold-s.p.11eec1ee.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: __calSans_Fallback_59423a;
+  src: local(Arial);
+  ascent-override: 98.6%;
+  descent-override: 19.72%;
+  line-gap-override: 0.0%;
+  size-adjust: 101.42%;
+}
+
+.calsans_59423aa8-module__vb3uGG__className {
+  font-family: __calSans_59423a, __calSans_Fallback_59423a;
+}
+
+.calsans_59423aa8-module__vb3uGG__variable {
+  --font-calsans: "__calSans_59423a", "__calSans_Fallback_59423a";
+}
+
+/*# sourceMappingURL=app_calsans_59423aa8_module_b52d8e.css.map*/
